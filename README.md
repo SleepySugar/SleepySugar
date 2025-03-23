@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://s3.ezgif.com/tmp/ezgif-315fed86da970a.gif" width="200"/>
-  <img src="Uhttps://s3.ezgif.com/tmp/ezgif-315fed86da970a.gif" width="200"/>
-  <img src="Uhttps://s3.ezgif.com/tmp/ezgif-315fed86da970a.gif" width="200"/>
+  <img src="https://static.myfigurecollection.net/upload/pictures/2023/04/07/3538695.gif" width="200" style="margin-right: 10px;"/>
+  <img src="https://static.myfigurecollection.net/upload/pictures/2023/04/07/3538695.gif" width="200" style="margin-right: 10px;"/>
+  <img src="https://static.myfigurecollection.net/upload/pictures/2023/04/07/3538695.gif" width="200"/>
 </div>
 
 <div align="center">
