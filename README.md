@@ -23,15 +23,17 @@
 <img src="https://images-ext-1.discordapp.net/external/OTbJ_LmcTTMaj2Ojq5LOpbTSMi59ZnR4Z20LKEP_3G4/https/i.pinimg.com/originals/16/c2/41/16c24137ad4ce2e32a3eb1b8c4a659aa.gif?width=600&height=338" width="500px" align="left"/>
 
 ```haskell
-                   SleepySugar
+
+
+                   sleepysugar
 
   ╔═════════*.·:·. ✦ ✧ ✦ ✧ ✦ .·:·.*═════════╗
 
-        ♡ cs @uta
+        ♡ cs - uta
 
-        ♡ gaming • coding • poetry • music
+        ♡ gaming, coding, poetry, music
 
-        ♡ surviving off coffee and sweets~
+        ♡ surviving off coffee & sweets~
 
   ╚═════════*.·:·. ✦ ✧ ✦ ✧ ✦ .·:·.*═════════╝
 
