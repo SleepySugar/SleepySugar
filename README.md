@@ -22,17 +22,17 @@
 
 <img src="https://images-ext-1.discordapp.net/external/OTbJ_LmcTTMaj2Ojq5LOpbTSMi59ZnR4Z20LKEP_3G4/https/i.pinimg.com/originals/16/c2/41/16c24137ad4ce2e32a3eb1b8c4a659aa.gif?width=600&height=338" width="500px" align="left"/>
 
-<span style="color:#F7C3D1FF;">
-
+```haskell
   SleepySugar
   ✧ ━━━━━━━━━⊱⋆⊰━━━━━━━━━ ✧
-    ♡ CS @UTA
-    ♡ System programming languages • DevOps 
-    ♡ Software architecture • Distributed systems
-    ♡ Hobbies: Gaming • Coding • Poetry • Music
+  💼 CS @UTA
+  💻 System programming languages • DevOps 
+  📖 Software architecture • Distributed systems
+  🎮 Hobbies: Gaming • Coding • Poetry • Music
 
   Surviving off coffee and sweets~
+  
 
-</span>
+```
 
 
