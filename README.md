@@ -25,14 +25,12 @@
 ```haskell
   SleepySugar
   ✧ ━━━━━━━━━⊱⋆⊰━━━━━━━━━ ✧
-  💼 CS @UTA
-  💻 System programming languages • DevOps 
-  📖 Software architecture • Distributed systems
-  🎮 Hobbies: Gaming • Coding • Poetry • Music
+    ♡ CS @UTA
+    ♡ System programming languages • DevOps 
+    ♡ Software architecture • Distributed systems
+    ♡ Hobbies: Gaming • Coding • Poetry • Music
 
   Surviving off coffee and sweets~
   
 
 ```
-
-
