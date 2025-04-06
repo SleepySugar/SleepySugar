@@ -25,6 +25,7 @@
 ```haskell
 
 
+
                    sleepysugar
 
   ╔═════════*.·:·. ✦ ✧ ✦ ✧ ✦ .·:·.*═════════╗
@@ -39,3 +40,14 @@
 
 
 ```
+
+
+const gradientBadge = require('gradient-badge');
+
+const svgString = gradientBadge({
+    subject: 'code', // <text>
+    status: 'C', // <text>
+    style: 'classic'
+    gradient: ['FFCCDC', 'B8E2FF']
+    icon: 'https://cdn.discordapp.com/attachments/970758059116855409/1358546534504857760/visual-studio.png?ex=67f43c8e&is=67f2eb0e&hm=1af7db00aa1ba34c38d5604f398b604aa394fd93c3865edaef6b61ca06f992de&'
+});
