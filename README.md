@@ -41,13 +41,15 @@
 
 ```
 
+<br><br>
 
 const gradientBadge = require('gradient-badge');
 
 const svgString = gradientBadge({
-    subject: 'code', // <text>
-    status: 'C', // <text>
-    style: 'classic'
-    gradient: ['FFCCDC', 'B8E2FF']
-    icon: 'https://cdn.discordapp.com/attachments/970758059116855409/1358546534504857760/visual-studio.png?ex=67f43c8e&is=67f2eb0e&hm=1af7db00aa1ba34c38d5604f398b604aa394fd93c3865edaef6b61ca06f992de&'
+    subject: 'version', // <text>
+    status: 'v1.2.3', // <text>
+    style: 'flat', // 'flat' or undefined, optional
+    // And any other parameter supported by badgen (icon, scale...)
+    gradient: ['pink', 'F78642'], // array of colors (Hexadecimal or name)
 });
+
