@@ -43,13 +43,14 @@
 
 <br><br>
 
-const gradientBadge = require('gradient-badge');
-
-const svgString = gradientBadge({
+<script src="https://cdn.jsdelivr.net/npm/gradient-badge"></script>
+<script>
+    var svgString = gradientBadge({
     subject: 'version', // <text>
     status: 'v1.2.3', // <text>
     style: 'flat', // 'flat' or undefined, optional
     // And any other parameter supported by badgen (icon, scale...)
     gradient: ['pink', 'F78642'], // array of colors (Hexadecimal or name)
-});
+    });
+</script>
 
