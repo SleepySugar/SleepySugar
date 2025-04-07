@@ -46,16 +46,9 @@
 
 <div align="center">
 <img src= https://badgen.net/badge/code/C/ffccd8?gradient=F78642>
-
-<img src= https://badgen.net/badge/code/C#/b8e2ff?gradient=F78642>
-
+<img src= https://badgen.net/badge/code/C#/ffccd8?gradient=F78642>
 <img src= https://badgen.net/badge/code/Java/ffccd8?gradient=F78642>
-
-<img src= https://badgen.net/badge/code/Javascript/b8e2ff?gradient=F78642>
-
+<img src= https://badgen.net/badge/code/Javascript/ffccd8?gradient=F78642>
 <img src= https://badgen.net/badge/code/HTML/ffccd8?gradient=F78642>
-
-<img src= https://badgen.net/badge/code/CSS/b8e2ff?gradient=F78642>
-
-<img src= https://badgen.net/badge/code/Python/ffccd8?gradient=F78642>
+<img src= https://badgen.net/badge/code/CSS/ffccd8?gradient=F78642>
 </div>
