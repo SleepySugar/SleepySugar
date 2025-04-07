@@ -45,5 +45,5 @@
 
 
 <div align="center">
- ![Version Badge](https://badgen.net/badge/version/v1.2.3/pink?gradient=F78642)
+<img src= https://badgen.net/badge/version/v1.2.3/pink?gradient=F78642>
 </div>
