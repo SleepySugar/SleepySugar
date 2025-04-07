@@ -43,14 +43,7 @@
 
 <br><br>
 
-<script src="https://cdn.jsdelivr.net/npm/gradient-badge"></script>
-<script>
-    var svgString = gradientBadge({
-    subject: 'version', // <text>
-    status: 'v1.2.3', // <text>
-    style: 'flat', // 'flat' or undefined, optional
-    // And any other parameter supported by badgen (icon, scale...)
-    gradient: ['pink', 'F78642'], // array of colors (Hexadecimal or name)
-    });
-</script>
 
+<div align="center">
+ ![Version Badge](https://badgen.net/badge/version/v1.2.3/pink?gradient=F78642)
+</div>
